@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.scss"],"names":[],"mappings":"AAAA,OACG,eAAgB,CAChB,UACH","file":"main.40af7774.chunk.css","sourcesContent":[".child {\r\n   font-size: 100px;\r\n   color: blue\r\n}\r\n   \r\n\r\n\r\n  "]}
